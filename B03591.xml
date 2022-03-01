@@ -1,0 +1,340 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Gemitus &amp; triumphus. A dream. Upon the much lamented death of William late Lord Archbishop of Canterbury. / By Peter Gleane, gent.</title>
+            <author>Gleane, Peter, Sir, 1672 or 3-1735?</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1693</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 11 KB of XML-encoded text transcribed from 2 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2013-12">2013-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B03591</idno>
+            <idno type="STC">Wing G848AA</idno>
+            <idno type="STC">ESTC R177430</idno>
+            <idno type="EEBO-CITATION">53299098</idno>
+            <idno type="OCLC">ocm 53299098</idno>
+            <idno type="VID">179861</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. B03591)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 179861)</note>
+            <note>Images scanned from microfilm: (Early English Books, 1641-1700 ; 2806:19)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Gemitus &amp; triumphus. A dream. Upon the much lamented death of William late Lord Archbishop of Canterbury. / By Peter Gleane, gent.</title>
+                  <author>Gleane, Peter, Sir, 1672 or 3-1735?</author>
+               </titleStmt>
+               <extent>1 sheet ([2] p.)   </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[London? :</pubPlace>
+                  <date>1693]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Place and date of publication suggested by Wing (2nd ed.).</note>
+                  <note>Reproduction of original in: National Library of Scotland.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Sancroft, William, 1617-1693 --  Death and burial --  Poetry --  Early works to 1800.</term>
+               <term>Elegiac poetry, English --  Early works to 1800.</term>
+               <term>Broadsides --  England --  17th century.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-10</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-10</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2012-12</date>
+            <label>Pip Willcox</label>Sampled and proofread</change>
+         <change>
+            <date>2012-12</date>
+            <label>Pip Willcox</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2013-02</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="poem">
+            <pb facs="tcp:179861:1" rendition="simple:additions"/>
+            <head>GEMITUS &amp; TRIUMPHUS. <hi>A Dream.</hi>
+            </head>
+            <head type="sub">Upon the much lamented Death of <hi>WILLIAM</hi> late Lord Archbiſhop of <hi>CANTERBURY.</hi> By <hi>Peter Gleane,</hi> Gent.</head>
+            <lg>
+               <l>LAte as I lay with ſurging Cares oppreſt,</l>
+               <l>The rude Invaders of my placid Reſt,</l>
+               <l>I begg'd an Interval but to retire,</l>
+               <l>To Fuel up my languid vital Fire:</l>
+               <l>But ſtubborn Care, reluctant Care, denies</l>
+               <l>Reſt to my Soul, and Slumber to my Eyes.</l>
+               <l>At laſt, when quite fatigued, I ſtole away;</l>
+               <l>Nor could this noiſy Tumult make me ſtay;</l>
+               <l>'Tis true it kept my groſſer Shell of Clay,</l>
+               <l>But the immortal Watcher of that Frame,</l>
+               <l>Always awake, always the ſame,</l>
+               <l>Was ſwiftly towring on the rapid Wing</l>
+               <l>Of ſoom good Daemon, ſome celeſtial Thing;</l>
+               <l>Such as thoſe airy Emiſſaries be,</l>
+               <l>That with young Prophets talk in Extaſie.</l>
+               <l>This airy Charioteer waſted me even</l>
+               <l>Where good Mens Souls they ſay embarque for Heaven;</l>
+               <l>Where, when my labouring Thoughts I could recount,</l>
+               <l>I found my ſelf on th' top of <hi>Piſga</hi>'s Mount;</l>
+               <l>Where, looking round about, as I did ſtand</l>
+               <l>Pleas'd with the Landskip of the happy and,</l>
+               <l>I ſaw (methought) a Reverend Matron ſet</l>
+               <l>Wearing the Symptoms of Diſconſolate,</l>
+               <l>Yet ſtill comply'd with her ſiniſter Fate;</l>
+               <l>Not once ſhe utter'd a reluctant moan,</l>
+               <l>Yet I obſerv'd ſhe in a modeſt Tone</l>
+               <l>More than once repeated, <hi>He is gone.</hi>
+               </l>
+               <l>Yet with that Conſtancy, that humble Senſe,</l>
+               <l>She never once betray'd her Patience.</l>
+               <l>The whilſt a wat'ry Deluge drowns my Eyes,</l>
+               <l>Whilſt my relenting Soul did ſympathiſe,</l>
+               <l>My Pity equal to her Grief did riſe,</l>
+               <l>Zealous to know and eaſe her Miſeries.</l>
+               <l>And whilſt my anxious Thoughts were thus employ'd,</l>
+               <l>With elevated Hands and Eyes ſhe cry'd,</l>
+               <l>
+                  <hi>Eripe heu miſeram;</hi> another Word</l>
+               <l>She added, which could not be underſtood</l>
+               <l>By me; who, all this while, ſtood ignorant</l>
+               <l>Of the myſteriouſneſs of this Complaint.</l>
+               <l>Conſcious at laſt that I ſhould ſeem to be</l>
+               <l>Loſt in the Practice of Humanity,</l>
+               <l>And by a ſlow ſupine omiſſion Sin,</l>
+               <l>I reſolutely threatned to begin</l>
+               <l>To ask the Cauſe of all theſe Signs of Grief,</l>
+               <l>The better to proportion ſome Relief.</l>
+               <l>Then trembling I approach'd, ſo as we ſee</l>
+               <l>Strangers addreſs themſelves to Majeſty,</l>
+               <l>And ſtooping too one Knee, becauſe I knew</l>
+               <l>That Poſture to her Reverence was due:</l>
+               <l>Lady, (ſays I) If this unbyaſs'd Breaſt</l>
+               <l>May be with ſo Divine a Secret bleſt,</l>
+               <l>Suſpend your Grief a while, and let me know</l>
+               <l>From what black Radix all this Sorrow grow,</l>
+               <l>Undraw the Tragick Curtain of your woe.</l>
+               <l>Let me in your Calamities pertake,</l>
+               <l>That which makes you ſad, may me happy make,</l>
+               <l>And to th'Unfortunate it is we know</l>
+               <l>Comfort, to have Confederates in woe.</l>
+               <l>So 'twill me happy make, if I may be</l>
+               <l>An Inſtrument to eaſe your Miſery:</l>
+               <l>And ſure if in my Sphere it lies I'le do't,</l>
+               <l>I'le ranſack every dark Receſs throughout,</l>
+               <l>But that I'le find the hidden Miſchief out.</l>
+               <l>And then— But here ſhe ſtopt me, Silence brake,</l>
+               <l>And very Gravely, like her ſelf ſhe ſpake:</l>
+               <l>Enough, (tender young Man) enough, I ſee</l>
+               <l>A Specimen of Chriſtian Love in thee.</l>
+               <l>Wipe off thoſe uſeleſs Tears, my Loſs is by</l>
+               <l>An indiſpenſable Neceſſity:</l>
+               <l>Therefore your Conſolations pray retain,</l>
+               <l>They're kind-indeed, yet but to me in vain;</l>
+               <l>Yet here I think you only have betray'd</l>
+               <l>How much your Love exceeds your Power to aid.</l>
+               <l>'Twas not (young Man) from any mortal Arm,</l>
+               <l>Or humane Violence, my Sorrow came,</l>
+               <l>And therefore 'twere Prophane for to believe</l>
+               <l>That humane Powers are able to relieve:</l>
+               <l>Death is the Cauſe, that Providential Rod,</l>
+               <l>That fatal Executioner of God,</l>
+               <l>He has bereav'd me of my Eldeſt Son;</l>
+               <l>Alas! he's gone! (wringing her hands) he's gone!</l>
+               <l>My Son, my Father, Friend or what can be</l>
+               <l>Nearer in Love, or Conſanguinity?</l>
+               <l>For ſince my Lord and Husband ſpilt his Blood,</l>
+               <l>He has the ſureſt and the firmeſt ſtood</l>
+               <l>To all my Cuſtoms, and Prerogatives,</l>
+               <l>Whilſt I a Mute in helpleſs Widdow-hood.</l>
+               <l>And for my ſake has undergone of late</l>
+               <l>The heavy Cenſures of an angry State:</l>
+               <l>Yet he; good, patient, he; eaſily retir'd,</l>
+               <l>For 'twas a Solitude that he deſir'd.</l>
+               <l>I follow'd him, there lovingly we ſat,</l>
+               <l>Nor envy'd Monarchs in our ſafe retreat;</l>
+               <l>Though ſome I know vainly believ'd that I</l>
+               <l>Had left him too in this Cataſtrophy,</l>
+               <l>Becauſe that look'd like humane Conſtancy:</l>
+               <l>No, there I left the Torrent, 'cauſe before</l>
+               <l>I ne're Allegiance to th' Cuſtom ſwore:</l>
+               <l>No Scene of freſher Troubles did ariſe,</l>
+               <l>But I conſorted in his Miſeries.</l>
+               <l>When tied to th' laſt Confinement of his Bed,</l>
+               <l>With tender Palms I preſs'd his dying Head.</l>
+               <pb facs="tcp:179861:2" rendition="simple:additions"/>
+               <l>Watching the languid Motions of his Eyes,</l>
+               <l>As th'Indian does the Occidental Skies.</l>
+               <l>Though I was ſure my ſetting Sun ſhould riſe,</l>
+               <l>Fetching a dying Sigh, and that muſt be</l>
+               <l>Not 'cauſe he left the Churliſh World, but me.</l>
+               <l>His Pious Soul thus glanced without ſtrife</l>
+               <l>Out of his Mouth, that Sally-port of Life:</l>
+               <l>After I'd ſeen him this laſt Tribute pay,</l>
+               <l>I kiſs'd his frigid Lips, and came away,</l>
+               <l>Leaving th' exhauſted Magazine of Breath</l>
+               <l>T'adorn the Triumphs of inſulting Death;</l>
+               <l>And to this Mount my ſwift Courier did tend,</l>
+               <l>Where good Mens Genius's to Heaven aſcend.</l>
+               <l>And here I wait aſſuredly to ſee</l>
+               <l>Him on his Voyage to Eternity.</l>
+               <l>His thinner Subſtance ſtem the wat'ry Clouds,</l>
+               <l>Marching along in the Celeſtial Roads</l>
+               <l>Till to the bleſt <hi>Empyreum</hi>—</l>
+               <l>But here ſhe broke abruptly off, and gaz'd</l>
+               <l>About, with Arms ſtretch out, like one amaz'd;</l>
+               <l>I fearing ſome Alarm turn'd me round,</l>
+               <l>For now I heard a noiſe of Trumpets ſound,</l>
+               <l>And vocal Acclamations from on high,</l>
+               <l>Which ſhook the Architecture of the Sky:</l>
+               <l>And ſtill deſcending nearer unto us,</l>
+               <l>Grew more articulate, and harmonious.</l>
+               <l>At laſt a Hurricane drew back a Cloud,</l>
+               <l>Which did before the Royal Proſpect ſhroud:</l>
+               <l>When from behind appear'd a num'rous throng</l>
+               <l>That to th' aetherial Manſions did belong,</l>
+               <l>Who in a Conſort, <hi>Io Poean</hi> ſung.</l>
+               <l>Whilſt the Seraphick Choriſters throughout</l>
+               <l>Their ſweeter Hallelujahs echo out.</l>
+               <l>Some rode in Chariots wrapt in Fiery Gowns,</l>
+               <l>None but wore Coronets, and ſome had Crowns;</l>
+               <l>Myriads of leſſer Cherubs ſeem'd to ſport</l>
+               <l>Thoſe little Out-guards of th' aetherial Court;</l>
+               <l>The Sun his buſy Rays the while employs</l>
+               <l>To guild the craggy Meteors of the Skies;</l>
+               <l>And all the new accompliſh'd Scene to dreſs,</l>
+               <l>To entertain the now approaching Gueſt;</l>
+               <l>Whom in a Chariot then I chanc'd to ſpy</l>
+               <l>Riſing afar off in the low hung Sky,</l>
+               <l>As from the Ocean: So in a Scallop rode</l>
+               <l>The Azure <hi>Thetis,</hi> with her marine God.</l>
+               <l>Yonder your Heroe comes, (Matron) I cry'd,</l>
+               <l>See, ſee, he does in active Triumph ride,</l>
+               <l>Whilſt his Retinue flies he drives in haſte,</l>
+               <l>Nor ever furious Jehu drove ſo faſt;</l>
+               <l>I ſpy'd on's Chariot, though with wonder ſmitten,</l>
+               <l>
+                  <hi>
+                     <g ref="char:V">Ʋ</g>ltra militiam triumphanti</hi> written.</l>
+               <l>At laſt the two Retinues did unite,</l>
+               <l>Shouting as when two Royal Armies meet.</l>
+               <l>I fear'd this loud Concuſſion, I confeſs,</l>
+               <l>Had crackt the Machine of the Univerſe;</l>
+               <l>And heard a Voice ſhriller than all the reſt,</l>
+               <l>In which three times diſtinctly was expreſt,</l>
+               <l>
+                  <hi>Euge bone ſerve!</hi> &amp;c.—</l>
+               <l>And then 'twas Echo'd loudly by the reſt.</l>
+               <l>So marching on they diſappear'd ſtreight,</l>
+               <l>And diſtance drew a Veil before my ſight.</l>
+               <l>Sure with ſuch Equipage ne're Conſul came</l>
+               <l>To make his pompous Ent'ry into <hi>Rome.</hi>
+               </l>
+               <l>In ſuch a Chariot ne're was Conſul drove</l>
+               <l>Up to the <hi>Roman</hi> Capitol of Jove:</l>
+               <l>Ne're with ſuch pointed Glories did Romance</l>
+               <l>Adorn the Nuptials of an earthly Prince:</l>
+               <l>And whilſt my Thoughts with ſuch Encomiums ſwell'd,</l>
+               <l>Thus ſpake the Matron. Now you have beheld</l>
+               <l>(Young Man) the glorious Triumphs of my Son,</l>
+               <l>You think (I warrant) all is paſt and gon;</l>
+               <l>No, more illuſtrious Glories are to come,</l>
+               <l>What you have ſeen 's but the Preludium:</l>
+               <l>He that was late ſo ſervilely enſtall'd</l>
+               <l>Is now a Saint going to be enthrall'd:</l>
+               <l>He that an humble Captive did lie down</l>
+               <l>Is rais'd a conqu'ring Hero in Renown:</l>
+               <l>He that— But hold a ſudden Exigence</l>
+               <l>Of my confus'd Affairs does call me hence.</l>
+               <l>Farewell, dear Saint! dear Martyr! and to you</l>
+               <l>(Pointing at me) I bid no long Farewel.</l>
+               <l>And then away ſhe flew.</l>
+            </lg>
+            <lg>
+               <l>Thus I awak'd in Sweat and Agony,</l>
+               <l>As't fares with Men that are in exſtaſy.</l>
+               <l>At laſt my Senſe return'd, I ſtare upright,</l>
+               <l>And then reſolv'd this raptur'd Dream to write:</l>
+               <l>And leaving the Confinement of my Bed,</l>
+               <l>I heard the Reverend Primate <hi>C.</hi> was dead.</l>
+               <l>With that I into new Convulſions fell,</l>
+               <l>For fear I ſhould miſtake the Parallel;</l>
+               <l>Though I was told before, and partly knew,</l>
+               <l>All that I heard, and ſeen, to him was due.</l>
+               <l>But this is a new Theme, too great for me,</l>
+               <l>Which none can Fathom, 'cauſe there's no degree</l>
+               <l>In an indefinite Immenſity:</l>
+               <l>On which ſo eaſy 'tis much to improve,</l>
+               <l>And ſo impoſſible to ſay enough.</l>
+               <l>Which never can defin'd more truly be,</l>
+               <l>Than when we own the Impoſſibility.</l>
+               <l>And therefore all the Honour we can ſhow him,</l>
+               <l>Is but a little part of what we owe him.</l>
+               <l>What can loquacious Zeal then more imply,</l>
+               <l>Since all Encomiums into ſilence dye?</l>
+               <l>Silence, the propereſt Language, I confeſs,</l>
+               <l>Wonder and Veneration to expreſs.</l>
+            </lg>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
